@@ -32,6 +32,7 @@ I like understanding how things work under the hood
 - C#
 - PHP
 - C++
+- JavaScipt
 
 ## ⚙️ Tools
 - Git
