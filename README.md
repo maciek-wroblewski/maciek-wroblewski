@@ -31,6 +31,7 @@ I like understanding how things work under the hood
 ### **Learning:**
 - C#
 - PHP
+- C++
 
 ## ⚙️ Tools
 - Git
