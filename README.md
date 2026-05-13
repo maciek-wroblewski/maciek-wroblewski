@@ -9,10 +9,10 @@ I like understanding how things work under the hood
 
 ### **🎓 Academic projects**
 - 📦 **Game Review App**<br>
-  <sub>Group project (3 people) - planning phase</sub>
+  <sub>Group project (3 people) - Authentification, user dashboard & profil system</sub>
   
 - 📦 **Multi Rental Platform**<br>
-  <sub>Group project (3 people) - planning phase</sub>
+  <sub>Group project (3 people) - Backend development and database architecture</sub>
 
 ## 🧠 Interests
 - System design
