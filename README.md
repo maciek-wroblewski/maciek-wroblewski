@@ -20,22 +20,26 @@ I like understanding how things work under the hood
 - Game development
 
 ## 🛠️ Languages
-### **Comfortable:**
+### **Comfortable with:**
 - Java
 - C
 
-### **Basics**
-- HTML / CSS
-- SQL
-
-### **Learning:**
+### **Currently learning:**
 - C#
 - PHP
 - C++
 - JavaScipt
 
+
+### **Familiar with**
+- HTML / CSS
+- SQL
+
 ## ⚙️ Tools
 - Git
+- Docker
+- Laravel
+- MySQL
 - Unity
 - Linux (basics)
 
