@@ -23,17 +23,16 @@ I like understanding how things work under the hood
 ### **Comfortable with:**
 - Java
 - C
+- HTML / CSS
+- SQL
 
 ### **Currently learning:**
 - C#
 - PHP
-- C++
-- JavaScipt
-
 
 ### **Familiar with**
-- HTML / CSS
-- SQL
+- JavaScript
+- C++
 
 ## ⚙️ Tools
 - Git
