@@ -12,7 +12,7 @@ I like understanding how things work under the hood
   <sub>Group project (3 people) - Authentification, user dashboard & profil system</sub>
   
 - 📦 **Multi Rental Platform**<br>
-  <sub>Group project (3 people) - Backend development and database architecture</sub>
+  <sub>Group project (3 people) -  Core backend development and database architecture</sub>
 
 ## 🧠 Interests
 - System design
