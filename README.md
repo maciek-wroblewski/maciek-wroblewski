@@ -8,11 +8,11 @@ I like understanding how things work under the hood
   <sub>A lightweight file synchronization tool working across devices</sub>
 
 ### **🎓 Academic projects**
-- 📦 **Game Review App**<br>
+- 🎮 **Game Review App**<br>
   <sub>Group project (3 people) - Authentification, user dashboard & profil system</sub>
   
-- 📦 **Multi Rental Platform**<br>
-  <sub>Group project (3 people) -  Core backend development and database architecture</sub>
+- 📦 **MultiRental Platform**<br>
+  <sub>Completed group project (3 people) -  Core backend development, database architecture and marketplace system</sub>
 
 ## 🧠 Interests
 - System design
