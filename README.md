@@ -9,7 +9,7 @@ I like understanding how things work under the hood
 
 ### **🎓 Academic projects**
 - 🎮 **Game Review App**<br>
-  <sub>Group project (3 people) - Authentification, user dashboard & profil system</sub>
+  <sub>Completed group project (3 people) - Authentification, user dashboard & profil system</sub>
   
 - 📦 **MultiRental Platform**<br>
   <sub>Completed group project (3 people) -  Core backend development, database architecture and marketplace system</sub>
