@@ -4,8 +4,6 @@ I like understanding how things work under the hood
 🌱 Computer Science student
  
 ## 🔭 Currently working on:
-- 🚀 **[CloudexSync](https://github.com/maciek-wroblewski/cloudex-sync)**  
-  <sub>A lightweight file synchronization tool working across devices</sub>
 
 ### **🎓 Academic projects**
 - 🎮 **Game Review App**<br>
